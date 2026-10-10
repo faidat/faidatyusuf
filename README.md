@@ -12,3 +12,10 @@ With the current repository name, the project-site URL will be:
 `https://faidat.github.io/faidatyusuf/`
 
 To use the cleaner `https://faidatyusuf.github.io/` URL later, rename the repository to `faidatyusuf.github.io`.
+
+
+## Femina Health case study
+- New page: `femina-health.html`
+- Styles: `femina-case-study.css`
+- Screenshot assets: `assets/`
+- The Femina Health card on the homepage links to the case study. Upload all files and folders to the repository root, preserving the `assets` folder.
